@@ -43,7 +43,7 @@ In case you want the most recent version:
 ```
     pip install tensorflow-gpu
 ```
-To use the GPU Tensorflow, other hardware and software requirements must be satisfied (GPU drivers and CUDA settings), there's a tutorial to all of them on tensorflow official site: <https://www.tensorflow.org/install/gpu>.
+To use the GPU Tensorflow, other hardware and software requirements must be satisfied (GPU drivers and CUDA settings), there's a tutorial to all of them on tensorflow's official site: <https://www.tensorflow.org/install/gpu>.
 
 * Numpy
 
