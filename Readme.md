@@ -6,7 +6,7 @@ A Deep Learning architecture for lyrics generation based on a specific musical g
 
 All lyrics (text-data) used to train the model was obtained using this Crawler <https://github.com/gabrielgoncalves95/vagalumeCrawler>.
 
-## Environment e Libraries
+## Environment and Libraries
 
 ### Python 3.6.5+
 An Anaconda Environment is highly recommended because of its improvements on tensorflow performance, but any compatible environment will be able tu run the scripts.
