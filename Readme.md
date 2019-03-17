@@ -43,7 +43,7 @@ In case you want the most recent version:
 ```
     pip install tensorflow-gpu
 ```
-To use the GPU Tensorflow other hardware and software requirements must be satisfied (GPU drivers and CUDA settings), there's a tutorial to all of them on tensorflow official site: <https://www.tensorflow.org/install/gpu>.
+To use the GPU Tensorflow, other hardware and software requirements must be satisfied (GPU drivers and CUDA settings), there's a tutorial to all of them on tensorflow official site: <https://www.tensorflow.org/install/gpu>.
 
 * Numpy
 
@@ -63,7 +63,7 @@ In case you want the most recent version:
 
 ## Training
 
-To configure the main characteristics of the network like type and architecture you can change the file 'modelconfig.py'. Many other settings of training and prediction can be changed in the other files.
+To configure the main characteristics of the network, like type and architecture, you can change the file 'modelconfig.py'. Many other settings of training and prediction can be changed in the other files.
 
 With all of the environment requirements satisfied, to start a training:
 
