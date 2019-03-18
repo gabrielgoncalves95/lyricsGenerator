@@ -28,11 +28,11 @@ In case you want the most recent version:
 
 * Tensorflow 1.10.0+ (Used as keras backend)
 
-To use cpu as model processor:
+To use cpu as main processor:
 ```
     pip install tensorflow==1.10.0
 ```
-To use gpu as model processor:
+To use gpu as main processor:
 ```
     pip install tensorflow-gpu==1.10.0
 ```
