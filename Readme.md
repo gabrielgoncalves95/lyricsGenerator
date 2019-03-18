@@ -1,6 +1,6 @@
 # Deep Learning - Lyrics Generator 
 
-A Deep Learning architecture for lyrics generation based on a specific musical genre. Different languages has absolutily different performances on the generated texts and demands a different model setting to have a resonable result on a new language.
+A Deep Learning architecture for lyrics generation based on a specific musical genre. Different languages has absolutely different performances on the generated texts and demands a different model setting to have a resonable result on a new language.
 
 ## Data
 
